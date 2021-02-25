@@ -215,3 +215,11 @@
   opacity: 0.2;
 }
 
+.intro-body {
+  background-image: url('../../assets/img/main.jpg');
+}
+
+#contact {
+  background-image: url('../../assets/img/main.jpg');
+}
+
